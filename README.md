@@ -13,7 +13,7 @@
 
 <h3> 💻 CompTIA Security+ </h3>
 
-<img src="https://github.com/jogg7/Certificates-Certifications/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf" width="600" height="400">
+<img src="https://github.com/jogg7/Certificates-Certifications/blob/a69bd625d449e1951ef5bb6ff43959595c6b46da/CompTIA%20Security%2B%20ce%20certificate%20(1)-1.png" width="600" height="400">
 
 <h3> 💻 Let's Defend SOC Analyst </h3>
 
