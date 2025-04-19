@@ -2,6 +2,35 @@
 
  <hr>
 
+ <h2> Projects </h2>
+
+
+ <h2> Certifications </h2>
+
+ <h3> 💻 CompTIA Network+ N10-008 </h3>
+
+<img src="[https://github.com/jogg7/Certificates-Certifications/blob/main/Google%20cybersecurity%20Cert%20SS.png](https://github.com/jogg7/Certificates-Certifications/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf)" width="600" height="400">
+
+<h3> 💻 CompTIA Security+ </h3>
+
+<img src="[https://github.com/jogg7/Certificates-Certifications/blob/main/Google%20cybersecurity%20Cert%20SS.png](https://github.com/jogg7/Certificates-Certifications/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)" width="600" height="400">
+
+<h3> 💻 Let's Defend SOC Analyst </h3>
+
+<img src="[https://github.com/jogg7/Certificates-Certifications/blob/main/Google%20cybersecurity%20Cert%20SS.png](https://github.com/jogg7/Certificates-Certifications/blob/main/4db429a9-6899-40c9-8d06-5eff3b412640.png)" width="600" height="400">
+
+<h3> 💻 Google Cybersecurity Certificate </h3>
+
+<img src="https://github.com/jogg7/Certificates-Certifications/blob/main/Google%20cybersecurity%20Cert%20SS.png" width="600" height="400">
+
+<li><a href="https://github.com/jogg7/google-cybersecurity-certificate">View Portfolio</a></li>
+
+ <hr>
+
+<li><a href="https://github.com/jogg7/Certificates-Certifications">View Certificates</a></li>
+
+
+
 <h2>👨‍💻 Web Development Projects:</h2>
 
 <h4>Marlin Internet</h4>
@@ -17,21 +46,6 @@
 <li><a href="https://github.com/jogg7/Captain-Marvel-Comic-Website">View Project</a></li>
 
  <hr>
-
- <h2> Certifications </h2>
-
-<h3> 💻 Google Cybersecurity Certificate </h3>
-
-<img src="https://github.com/jogg7/Certificates-Certifications/blob/main/Google%20cybersecurity%20Cert%20SS.png" width="600" height="400">
-
-<li><a href="https://github.com/jogg7/google-cybersecurity-certificate">View Portfolio</a></li>
-
- <hr>
-
-
-<li><a href="https://github.com/jogg7/Certificates-Certifications">View Certificates</a></li>
-
-
 
 
 
