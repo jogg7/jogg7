@@ -18,7 +18,9 @@
 
  <hr>
 
-<h2> 💻 Google Cybersecurity Certificate </h2>
+ <h2> Certifications </h2>
+
+<h3> 💻 Google Cybersecurity Certificate </h3>
 
 <img src="https://github.com/jogg7/Certificates-Certifications/blob/main/Google%20cybersecurity%20Cert%20SS.png" width="600" height="400">
 
@@ -26,7 +28,6 @@
 
  <hr>
 
-<h2> Certifications </h2>
 
 <li><a href="https://github.com/jogg7/Certificates-Certifications">View Certificates</a></li>
 
