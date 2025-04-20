@@ -4,6 +4,10 @@
 
  <h2> Projects </h2>
 
+<h3> Auto Newsletter Generator </h3>
+
+ <a href=Ahttps://github.com/jogg7/Auto-Newsletter-Generator/tree/main> View Project </a>
+
 
  <h2> Certifications </h2>
 
