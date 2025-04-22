@@ -4,16 +4,28 @@
 
  <h2> Projects </h2>
 
+ <h3> AI Powered Threat Detection for Cybersecurity Defense </h3>
+
+ <a href=https://github.com/jogg7/AI-Powered-Threat-Detection-for-Cybersecurity-Defense-> View this Project </a>
+
 <h3> Auto Newsletter Generator </h3>
 
- <a href=https://github.com/jogg7/Auto-Newsletter-Generator/tree/main> View Project </a>
+ <a href=https://github.com/jogg7/Auto-Newsletter-Generator/tree/main> View this Project </a>
+
+ <h3> Auto-Conf-Checker </h3>
+
+ <a href=https://github.com/jogg7/Auto-Conf-Checker> View this Project </a>
+
+
+
+ 
 
 
  <h2> Certifications </h2>
 
  <h3> 💻 CompTIA Network+ N10-008 </h3>
 
-<img src="[https://github.com/jogg7/Certificates-Certifications/blob/main/Google%20cybersecurity%20Cert%20SS.png](https://github.com/jogg7/Certificates-Certifications/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf)" width="600" height="400">
+<img src="https://github.com/jogg7/PNGs/blob/main/CompTIA%20Network%2B%20ce%20certificate-1.png" width="600" height="400">
 
 <h3> 💻 CompTIA Security+ </h3>
 
@@ -21,7 +33,7 @@
 
 <h3> 💻 Let's Defend SOC Analyst </h3>
 
-<img src="[https://github.com/jogg7/Certificates-Certifications/blob/main/Google%20cybersecurity%20Cert%20SS.png](https://github.com/jogg7/Certificates-Certifications/blob/main/4db429a9-6899-40c9-8d06-5eff3b412640.png)" width="600" height="400">
+<img src="https://github.com/jogg7/PNGs/blob/main/4db429a9-6899-40c9-8d06-5eff3b412640.png" width="600" height="400">
 
 <h3> 💻 Google Cybersecurity Certificate </h3>
 
