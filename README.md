@@ -8,13 +8,12 @@
 
  <a href=https://github.com/jogg7/AI-Powered-Threat-Detection-for-Cybersecurity-Defense-> View this Project Repsoitory</a>
 
- <br />
+
 
 <h3> Auto Newsletter Generator </h3>
 
  <a href=https://github.com/jogg7/Auto-Newsletter-Generator/tree/main> View this Project's Repsoitory </a>
 
- <br />
 
  <h3> Auto-Conf-Checker </h3>
 
@@ -23,7 +22,7 @@
  <br />
 
 
-<br />
+
 
  
 
