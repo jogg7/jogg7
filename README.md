@@ -2,6 +2,8 @@
 
  <hr>
 
+ To learn more about my work and certifications, please view each repository's .readme using the links provided below.
+
  <h2> Projects </h2>
  
 <h3> AI Powered Threat Detection for Cybersecurity Defense </h3>
@@ -22,9 +24,23 @@
  <br />
 
 
+ <h2> C++ Data Structures Projects </h2>
+
+ <h3> Text Brush (Microsoft Paint like Program) </h3>
+
+ <a href=https://github.com/jogg7/Text-Brush> View this Project Repsoitory</a>
 
 
- 
+
+<h3> Mouse in a Maze (Stack Data Sructure Project) </h3>
+
+ <a href=https://github.com/jogg7/Mouse-in-a-Maze> View this Project's Repsoitory </a>
+
+
+ <h3> Automated Text Editor using Linked Lists </h3>
+
+ <a href=https://github.com/jogg7/Text-Editor-Automated> View this Project Repsoitory </a>
+
 
  <h2> Certifications </h2>
 
